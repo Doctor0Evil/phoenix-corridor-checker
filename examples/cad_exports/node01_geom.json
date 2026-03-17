@@ -1,0 +1,18 @@
+{
+  "clear_gap_m": 0.016,
+  "bar_diameter_m": 0.010,
+  "bar_spacing_m": 0.030,
+  "species_min_dim_child_m": 0.090,
+  "species_min_dim_rat_m": 0.055,
+  "species_min_dim_pigeon_m": 0.045,
+  "alloy_name": "316L",
+  "mesh_gauge_mm": 1.6,
+  "rat_bite_cycles_survived": 15000,
+  "rat_bite_cycles_required": 10000,
+  "fatigue_cycles_survived": 2500000,
+  "fatigue_cycles_required": 1000000,
+  "corrosion_margin_years": 60.0,
+  "design_life_years": 30.0,
+  "projected_macro_litter_capture_kg_year": 144.0,
+  "projected_energy_hybrid_mwh_year": 0.9
+}
