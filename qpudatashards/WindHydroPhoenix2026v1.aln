@@ -1,0 +1,7 @@
+cargo run -- \
+  --out qpudatashards/WindHydroPhoenix2026v1.aln \
+  check \
+  --geom cad_exports/node01_geom.json \
+  --node-id WindHydro-PHX-Node01 \
+  --lat 33.4484 \
+  --lon -112.0740
